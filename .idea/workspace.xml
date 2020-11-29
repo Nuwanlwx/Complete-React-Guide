@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="" />
+    <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Persons/Persons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Persons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k0RIrOFEnPoS3pSFbWNUhVtCUu" />
   <component name="ProjectViewState">
@@ -16,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../styling--03-finished" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -24,6 +42,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Nuwan\Personal Projects\react-complete-guide\src\components" />
+      <recent name="C:\Nuwan\Personal Projects\react-complete-guide\src\containers" />
+      <recent name="C:\Nuwan\Personal Projects\react-complete-guide\src\Components" />
+      <recent name="C:\Nuwan\Personal Projects\react-complete-guide\src\Persons" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,7 +60,32 @@
       <option name="presentableId" value="Default" />
       <updated>1604835445944</updated>
       <workItem from="1604835447007" duration="315000" />
+      <workItem from="1604836331239" duration="5608000" />
+      <workItem from="1604893665177" duration="65000" />
+      <workItem from="1606669493534" duration="2302000" />
     </task>
+    <task id="LOCAL-00001" summary="5. Styling React Components &amp; Elements:10. Working with CSS Modules">
+      <created>1604836398765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604836398765</updated>
+    </task>
+    <task id="LOCAL-00002" summary="6. Debugging React Apps:5. Using Error Boundaries (React 16+)">
+      <created>1604852771385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604852771385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="7. Diving Deeper into Components &amp; React Internals:2. A Better Project Structure">
+      <created>1604853825401</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604853825401</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -50,11 +101,26 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5. Styling React Components &amp; Elements:10. Working with CSS Modules" />
+    <MESSAGE value="6. Debugging React Apps:5. Using Error Boundaries (React 16+)" />
+    <MESSAGE value="7. Diving Deeper into Components &amp; React Internals:2. A Better Project Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="7. Diving Deeper into Components &amp; React Internals:2. A Better Project Structure" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1604836328181">
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1604853824705">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604836328181" />
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1604853824705" />
+    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1606670794066">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606670794066" />
+    <state x="487" y="0" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604852762066">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="487" y="0" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.680@0.0.1280.680" timestamp="1604852762066" />
   </component>
 </project>

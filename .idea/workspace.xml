@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kyfoTpP46Mb3QkD3SYXgYEO0EQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Projects/sfm-supervisor-web" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="" />
+      <created>1606677929539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606677929539</updated>
+      <workItem from="1606677931383" duration="26000" />
+      <workItem from="1606677959233" duration="624000" />
+      <workItem from="1606707855562" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="94" key="FileChooserDialogImpl" timestamp="1606707885055">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="740" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606707885055" />
+    <state width="617" height="163" key="GridCell.Tab.0.bottom" timestamp="1606677159961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606677159961" />
+    <state width="617" height="163" key="GridCell.Tab.0.center" timestamp="1606677159961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606677159961" />
+    <state width="617" height="163" key="GridCell.Tab.0.left" timestamp="1606677159961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606677159961" />
+    <state width="617" height="163" key="GridCell.Tab.0.right" timestamp="1606677159961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="617" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606677159961" />
+  </component>
+</project>

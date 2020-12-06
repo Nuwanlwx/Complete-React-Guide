@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ErrorBoundary/ErrorBoundary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +57,7 @@
       <workItem from="1606677959233" duration="624000" />
       <workItem from="1606707855562" duration="31000" />
       <workItem from="1606762675649" duration="1326000" />
-      <workItem from="1607253433337" duration="5952000" />
+      <workItem from="1607253433337" duration="8040000" />
     </task>
     <task id="LOCAL-00001" summary="Fixing loading issue">
       <created>1606762956851</created>
@@ -72,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607276307166</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5. Styling React Components &amp; Elements:11. CSS Modules &amp; Media Queries">
+      <created>1607276878024</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607276878024</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,13 +101,14 @@
     <MESSAGE value="Fixing loading issue" />
     <MESSAGE value="5. Styling React Components &amp; Elements:9. Styled Components &amp; Dynamic Styles" />
     <MESSAGE value="5. Styling React Components &amp; Elements:10. Working with CSS Modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. Styling React Components &amp; Elements:10. Working with CSS Modules" />
+    <MESSAGE value="5. Styling React Components &amp; Elements:11. CSS Modules &amp; Media Queries" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. Styling React Components &amp; Elements:11. CSS Modules &amp; Media Queries" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1607276306557">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1607276877500">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1607276306557" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1607276877500" />
     <state x="740" y="94" key="FileChooserDialogImpl" timestamp="1606707885055">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

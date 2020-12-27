@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/context/auth-context.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Persons/Persons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Persons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <workItem from="1608837344499" duration="626000" />
       <workItem from="1608839587383" duration="649000" />
       <workItem from="1608840687338" duration="194000" />
-      <workItem from="1608886577369" duration="15808000" />
+      <workItem from="1608886577369" duration="16498000" />
     </task>
     <task id="LOCAL-00001" summary="Fixing loading issue">
       <created>1606762956851</created>
@@ -264,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609095604684</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary=" 7. Diving Deeper into Components &amp; React Internals:30. Using the Context API">
+      <created>1609097241352</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1609097241352</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +280,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="5. Styling React Components &amp; Elements:10. Working with CSS Modules" />
     <MESSAGE value="5. Styling React Components &amp; Elements:11. CSS Modules &amp; Media Queries" />
     <MESSAGE value="6. Debugging React Apps:5. Using Error Boundaries (React 16+)" />
     <MESSAGE value="7. Diving Deeper into Components &amp; React Internals:2. A Better Project Structure" />
@@ -300,6 +304,7 @@
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:27. Using Refs" />
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:28. Refs with React Hooks" />
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:29. Understanding Prop Chain Problems" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:29. Understanding Prop Chain Problems" />
+    <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:30. Using the Context API" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:30. Using the Context API" />
   </component>
 </project>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ErrorBoundary/ErrorBoundary.js" afterDir="false" />
+    <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment=" 7. Diving Deeper into Components &amp; React Internals:">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Projects/clustermanager" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,6 +43,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Nuwan\Personal Projects\react-complete-guide\src\components" />
+      <recent name="C:\Nuwan\Personal Projects\react-complete-guide\src\containers" />
+      <recent name="C:\Nuwan\Personal Projects\react-complete-guide\src\Persons" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,7 +63,15 @@
       <workItem from="1606677959233" duration="624000" />
       <workItem from="1606707855562" duration="31000" />
       <workItem from="1606762675649" duration="1326000" />
-      <workItem from="1607253433337" duration="8040000" />
+      <workItem from="1607253433337" duration="8812000" />
+      <workItem from="1607312495507" duration="19190000" />
+      <workItem from="1607917838422" duration="52000" />
+      <workItem from="1608055089032" duration="8966000" />
+      <workItem from="1608465111327" duration="7200000" />
+      <workItem from="1608837344499" duration="626000" />
+      <workItem from="1608839587383" duration="649000" />
+      <workItem from="1608840687338" duration="194000" />
+      <workItem from="1608886577369" duration="3146000" />
     </task>
     <task id="LOCAL-00001" summary="Fixing loading issue">
       <created>1606762956851</created>
@@ -87,7 +101,84 @@
       <option name="project" value="LOCAL" />
       <updated>1607276878024</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="6. Debugging React Apps:5. Using Error Boundaries (React 16+)">
+      <created>1607278982276</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607278982276</updated>
+    </task>
+    <task id="LOCAL-00006" summary="7. Diving Deeper into Components &amp; React Internals:2. A Better Project Structure">
+      <created>1607797624500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607797624500</updated>
+    </task>
+    <task id="LOCAL-00007" summary="7. Diving Deeper into Components &amp; React Internals:3. Splitting an App Into Components">
+      <created>1607801095907</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607801095907</updated>
+    </task>
+    <task id="LOCAL-00008" summary="7. Diving Deeper into Components &amp; React Internal:5. Class-based vs Functional Components">
+      <created>1607849565587</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607849565587</updated>
+    </task>
+    <task id="LOCAL-00009" summary="7. Diving Deeper into Components &amp; React Internals:7. Component Creation Lifecycle in Action">
+      <created>1607885929639</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607885929639</updated>
+    </task>
+    <task id="LOCAL-00010" summary="7. Diving Deeper into Components &amp; React Internals:8. Component Update Lifecycle (for props Changes)">
+      <created>1608059295488</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608059295488</updated>
+    </task>
+    <task id="LOCAL-00011" summary="7. Diving Deeper into Components &amp; React Internals:10. Using useEffect() in Functional Components">
+      <created>1608229493975</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608229493975</updated>
+    </task>
+    <task id="LOCAL-00012" summary="7. Diving Deeper into Components &amp; React Internals:11. Controlling the useEffect() Behavior">
+      <created>1608230304224</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608230304224</updated>
+    </task>
+    <task id="LOCAL-00013" summary="  7. Diving Deeper into Components &amp; React Internals:12. Cleaning up with Lifecycle Hooks &amp; useEffect()">
+      <created>1608467790214</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608467790214</updated>
+    </task>
+    <task id="LOCAL-00014" summary=" 7. Diving Deeper into Components &amp; React Internals:13. Cleanup Work with useEffect() - Example">
+      <created>1608468405925</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608468405925</updated>
+    </task>
+    <task id="LOCAL-00015" summary=" 7. Diving Deeper into Components &amp; React Internals:14. Using shouldComponentUpdate for Optimization">
+      <created>1608469324703</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608469324703</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,17 +193,36 @@
     <MESSAGE value="5. Styling React Components &amp; Elements:9. Styled Components &amp; Dynamic Styles" />
     <MESSAGE value="5. Styling React Components &amp; Elements:10. Working with CSS Modules" />
     <MESSAGE value="5. Styling React Components &amp; Elements:11. CSS Modules &amp; Media Queries" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. Styling React Components &amp; Elements:11. CSS Modules &amp; Media Queries" />
+    <MESSAGE value="6. Debugging React Apps:5. Using Error Boundaries (React 16+)" />
+    <MESSAGE value="7. Diving Deeper into Components &amp; React Internals:2. A Better Project Structure" />
+    <MESSAGE value="7. Diving Deeper into Components &amp; React Internals:3. Splitting an App Into Components" />
+    <MESSAGE value="7. Diving Deeper into Components &amp; React Internal:5. Class-based vs Functional Components" />
+    <MESSAGE value="7. Diving Deeper into Components &amp; React Internals:7. Component Creation Lifecycle in Action" />
+    <MESSAGE value="7. Diving Deeper into Components &amp; React Internals:8. Component Update Lifecycle (for props Changes)" />
+    <MESSAGE value="7. Diving Deeper into Components &amp; React Internals:10. Using useEffect() in Functional Components" />
+    <MESSAGE value="7. Diving Deeper into Components &amp; React Internals:11. Controlling the useEffect() Behavior" />
+    <MESSAGE value="  7. Diving Deeper into Components &amp; React Internals:12. Cleaning up with Lifecycle Hooks &amp; useEffect()" />
+    <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:13. Cleanup Work with useEffect() - Example" />
+    <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:14. Using shouldComponentUpdate for Optimization" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:14. Using shouldComponentUpdate for Optimization" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1607276877500">
+    <state x="14" y="75" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608839600940">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1607276877500" />
-    <state x="740" y="94" key="FileChooserDialogImpl" timestamp="1606707885055">
+    <state x="14" y="75" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1608839600940" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1608469324073">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="740" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606707885055" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1608469324073" />
+    <state x="0" y="49" key="DiffContextDialog" timestamp="1607792242463">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="49" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1607792242463" />
+    <state x="740" y="94" key="FileChooserDialogImpl" timestamp="1608837234585">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="740" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608837234585" />
     <state width="617" height="163" key="GridCell.Tab.0.bottom" timestamp="1606677159961">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

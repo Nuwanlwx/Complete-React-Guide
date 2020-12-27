@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
       <workItem from="1608837344499" duration="626000" />
       <workItem from="1608839587383" duration="649000" />
       <workItem from="1608840687338" duration="194000" />
-      <workItem from="1608886577369" duration="10183000" />
+      <workItem from="1608886577369" duration="11139000" />
     </task>
     <task id="LOCAL-00001" summary="Fixing loading issue">
       <created>1606762956851</created>
@@ -226,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609086629116</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary=" 7. Diving Deeper into Components &amp; React Internals:25. Setting State Correctly">
+      <created>1609088326042</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1609088326042</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +268,7 @@
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:22. Higher Order Components (HOC) - Introduction" />
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:23. Another Form of HOCs" />
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:24. Passing Unknown Props" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:24. Passing Unknown Props" />
+    <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:25. Setting State Correctly" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:25. Setting State Correctly" />
   </component>
 </project>

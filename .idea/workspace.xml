@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hoc/Auxiliary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/WithClass.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
       <workItem from="1608837344499" duration="626000" />
       <workItem from="1608839587383" duration="649000" />
       <workItem from="1608840687338" duration="194000" />
-      <workItem from="1608886577369" duration="6915000" />
+      <workItem from="1608886577369" duration="7494000" />
     </task>
     <task id="LOCAL-00001" summary="Fixing loading issue">
       <created>1606762956851</created>
@@ -192,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609074169784</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary=" 7. Diving Deeper into Components &amp; React Internals:19. Rendering Adjacent JSX Elements">
+      <created>1609084558788</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1609084558788</updated>
+    </task>
+    <task id="LOCAL-00019" summary=" 7. Diving Deeper into Components &amp; React Internals:19:2. Rendering Adjacent JSX Elements with react fragment">
+      <created>1609084741701</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1609084741701</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +234,8 @@
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:14. Using shouldComponentUpdate for Optimization" />
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:15. Optimizing Functional Components with React.memo()" />
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:17. PureComponents instead of shouldComponentUpdate" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:17. PureComponents instead of shouldComponentUpdate" />
+    <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:19. Rendering Adjacent JSX Elements" />
+    <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:19:2. Rendering Adjacent JSX Elements with react fragment" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:19:2. Rendering Adjacent JSX Elements with react fragment" />
   </component>
 </project>

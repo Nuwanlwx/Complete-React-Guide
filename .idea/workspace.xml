@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hoc/WithClass.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/WithClass.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/withClass.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
       <workItem from="1608837344499" duration="626000" />
       <workItem from="1608839587383" duration="649000" />
       <workItem from="1608840687338" duration="194000" />
-      <workItem from="1608886577369" duration="7494000" />
+      <workItem from="1608886577369" duration="8475000" />
     </task>
     <task id="LOCAL-00001" summary="Fixing loading issue">
       <created>1606762956851</created>
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609084741701</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary=" 7. Diving Deeper into Components &amp; React Internals:22. Higher Order Components (HOC) - Introduction">
+      <created>1609085290535</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1609085290535</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +243,7 @@
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:17. PureComponents instead of shouldComponentUpdate" />
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:19. Rendering Adjacent JSX Elements" />
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:19:2. Rendering Adjacent JSX Elements with react fragment" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:19:2. Rendering Adjacent JSX Elements with react fragment" />
+    <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:22. Higher Order Components (HOC) - Introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:22. Higher Order Components (HOC) - Introduction" />
   </component>
 </project>

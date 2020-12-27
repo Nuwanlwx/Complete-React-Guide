@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bbd8c2c-0d53-4fc4-aa7b-7b8b2e05fa8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hoc/Auxiliary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Persons/Persons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Persons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <workItem from="1608837344499" duration="626000" />
       <workItem from="1608839587383" duration="649000" />
       <workItem from="1608840687338" duration="194000" />
-      <workItem from="1608886577369" duration="4526000" />
+      <workItem from="1608886577369" duration="6915000" />
     </task>
     <task id="LOCAL-00001" summary="Fixing loading issue">
       <created>1606762956851</created>
@@ -184,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609071378555</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=" 7. Diving Deeper into Components &amp; React Internals:17. PureComponents instead of shouldComponentUpdate">
+      <created>1609074169784</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609074169784</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +219,7 @@
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:13. Cleanup Work with useEffect() - Example" />
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:14. Using shouldComponentUpdate for Optimization" />
     <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:15. Optimizing Functional Components with React.memo()" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:15. Optimizing Functional Components with React.memo()" />
+    <MESSAGE value=" 7. Diving Deeper into Components &amp; React Internals:17. PureComponents instead of shouldComponentUpdate" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 7. Diving Deeper into Components &amp; React Internals:17. PureComponents instead of shouldComponentUpdate" />
   </component>
 </project>
